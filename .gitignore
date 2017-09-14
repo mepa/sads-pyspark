@@ -1,0 +1,7 @@
+derby.log
+metastore_db
+spark-warehouse
+
+.ipynb_checkpoints
+
+.DS_Store
